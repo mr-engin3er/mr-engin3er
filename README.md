@@ -85,6 +85,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1091](https://github.com/frappe/bench/issues/1091) in [frappe/bench](https://github.com/frappe/bench)
+<!--END_SECTION:activity-->
 
 
 </details>
