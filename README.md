@@ -6,7 +6,7 @@
 
 ## I'm an Engineer, Amputee, Developer,Pen tester and always a learner!
 
-- 🔭 I’m currently working on a [VS Code Course]!
+- 🔭 I’m currently working on  Django, RESTAPI and flutter!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
