@@ -88,7 +88,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1091](https://github.com/frappe/bench/issues/1091) in [frappe/bench](https://github.com/frappe/bench)
+1. 🗣 Commented on [#76](https://github.com/jazzband/dj-rest-auth/issues/76) in [jazzband/dj-rest-auth](https://github.com/jazzband/dj-rest-auth)
 <!--END_SECTION:activity-->
 
 
