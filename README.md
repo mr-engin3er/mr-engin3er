@@ -97,13 +97,24 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="mr-engin3er's Github Stats" src="https://github-readme-stats-mr-engin3er.vercel.app/api?username=mr-engin3er&show_icons=true&hide_border=true" />
+<!--   <img align="left" alt="mr-engin3er's Github Stats" src="https://github-readme-stats-mr-engin3er.vercel.app/api?username=mr-engin3er&show_icons=true&hide_border=true&include_all_commits=true&theme=material-palenight&count_private=true" /> -->
+  <img align="left" alt="mr-engin3er's Github Stats" src=[![Readme card] />
 
 </details>
 
-<!-- [website]: https://codeSTACKr.com -->
+<details>
+    <summary> Top 10 Languages
+      <img align="left" alt="mr-engin3er's top 10 lang" src=[![Top Langs]
+</details>
+
+[![Readme card](https://github-readme-stats-mr-engin3er.vercel.app/api?username=mr-engin3er&show_icons=true&hide_border=true&include_all_commits=true&theme=material-palenight&count_private=true)](https://github-readme-stats-mr-engin3er.vercel.app)
+      
+[![Top Langs](https://github-readme-stats-mr-engin3er.vercel.app/api/top-langs/?username=mr-engin3er)](https://github-readme-stats-mr-engin3er.vercel.app)
+
+
+<!-- [website]: https://triops.com -->
 [twitter]: https://twitter.com/mr_engin3er
-<!-- [youtube]: https://youtube.com/codeSTACKr -->
+<!-- [youtube]: https://youtube.com/mr-engin3er -->
 [instagram]: https://www.instagram.com/mr_engin3er/
 [linkedin]: https://www.linkedin.com/in/mr-engin3er/
 [facebook]: https://www.facebook.com/erdheeraj.sanadhya/
