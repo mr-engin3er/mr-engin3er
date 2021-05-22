@@ -98,18 +98,19 @@
   <summary>:zap: Github Stats</summary>
 
 <!--   <img align="left" alt="mr-engin3er's Github Stats" src="https://github-readme-stats-mr-engin3er.vercel.app/api?username=mr-engin3er&show_icons=true&hide_border=true&include_all_commits=true&theme=material-palenight&count_private=true" /> -->
-  <img align="left" alt="mr-engin3er's Github Stats" src=[![Readme card] />
+
+  [![Readme card](https://github-readme-stats-mr-engin3er.vercel.app/api?username=mr-engin3er&show_icons=true&hide_border=true&include_all_commits=true&theme=material-palenight&count_private=true)](https://github-readme-stats-mr-engin3er.vercel.app)
 
 </details>
 
 <details>
-    <summary> Top 10 Languages
-      <img align="left" alt="mr-engin3er's top 10 lang" src=[![Top Langs]
+    <summary>:zap: Top 10 Languages
+     [![Top Langs](https://github-readme-stats-mr-engin3er.vercel.app/api/top-langs/?username=mr-engin3er)](https://github-readme-stats-mr-engin3er.vercel.app)
 </details>
 
-[![Readme card](https://github-readme-stats-mr-engin3er.vercel.app/api?username=mr-engin3er&show_icons=true&hide_border=true&include_all_commits=true&theme=material-palenight&count_private=true)](https://github-readme-stats-mr-engin3er.vercel.app)
+
       
-[![Top Langs](https://github-readme-stats-mr-engin3er.vercel.app/api/top-langs/?username=mr-engin3er)](https://github-readme-stats-mr-engin3er.vercel.app)
+
 
 
 <!-- [website]: https://triops.com -->
