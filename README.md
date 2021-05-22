@@ -96,13 +96,16 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  [![Readme card](https://github-readme-stats-mr-engin3er.vercel.app/api?username=mr-engin3er&show_icons=true&hide_border=true&include_all_commits=true&theme=Gradient&count_private=true)](https://github-readme-stats-mr-engin3er.vercel.app)
+  [![Readme card](https://github-readme-stats-mr-engin3er.vercel.app/api?username=mr-engin3er&show_icons=true&hide_border=true&include_all_commits=true&theme=material-palenight&count_private=true)](https://github-readme-stats-mr-engin3er.vercel.app)
 
 </details>
 
 <details>
+  
     <summary>:zap: Top 10 Languages </summary>
-     [![Top Langs](https://github-readme-stats-mr-engin3er.vercel.app/api/top-langs/?username=mr-engin3er)](https://github-readme-stats-mr-engin3er.vercel.app)
+  
+     [![Top Langs](https://github-readme-stats-mr-engin3er.vercel.app/api/top-langs/?username=mr-engin3er&layout=compact)](https://github-readme-stats-mr-engin3er.vercel.app)
+     
 </details>
 
 
