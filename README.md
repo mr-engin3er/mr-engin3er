@@ -1,4 +1,5 @@
 ### Hi there, I'm Dheeraj kumar - aka [mr-engin3er]
+
 <!-- [website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -6,26 +7,25 @@
 
 ## I'm an Engineer, Amputee, Developer,Pen tester and always a learner!
 
-- 🔭 I’m currently working on  Django, RESTAPI and flutter!
+- 🔭 I’m currently working on Django, RESTAPI and flutter!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Cook.
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.mr-engin3er.vercel.app/api/spotify)](https://open.spotify.com/user/31jgnq7jn45dolzlexglta6odkla)
 
+[![Spotify](https://novatorem.mr-engin3er.vercel.app/api/spotify)](https://open.spotify.com/user/31jgnq7jn45dolzlexglta6odkla)
 
 ### Connect with me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+
 [<img align="left" alt="mr-engin3er | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mr-engin3er | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mr-engin3er | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="mr-engin3er | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
-
 
 <br />
 
@@ -66,7 +66,7 @@
 - [UPDATE: VS Code July 2020 Stable Release | Settings Sync | Browser Debugging](https://www.youtube.com/watch?v=4adVM33GAlA)
 <!-- YOUTUBE:END -->
 
-<!-- ➡️ [more videos...](https://youtube.com/codestackr) --> 
+<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
 
 ---
 
@@ -91,31 +91,23 @@
 1. 🗣 Commented on [#76](https://github.com/jazzband/dj-rest-auth/issues/76) in [jazzband/dj-rest-auth](https://github.com/jazzband/dj-rest-auth)
 <!--END_SECTION:activity-->
 
-
 </details>
 
 <details>
   <summary>:zap: Github Stats</summary>
-  [![Readme card](https://github-readme-stats-mr-engin3er.vercel.app/api?username=mr-engin3er&show_icons=true&hide_border=true&include_all_commits=true&theme=material-palenight&count_private=true)](https://github-readme-stats-mr-engin3er.vercel.app)
-
+    <img align="center" src="https://github-readme-stats-mr-engin3er.vercel.app/api?username=mr-engin3er&show_icons=true&hide_border=true&include_all_commits=true&theme=material-palenight&count_private=true" alt="mr-engin3er's github stats" />
 </details>
 
 <details>
-  
     <summary>:zap: Top 10 Languages </summary>
-  
-     [![Top Langs](https://github-readme-stats-mr-engin3er.vercel.app/api/top-langs/?username=mr-engin3er&layout=compact)](https://github-readme-stats-mr-engin3er.vercel.app)
-     
+    <img align="center" src="https://github-readme-stats-mr-engin3er.vercel.app/api/top-langs/?username=mr-engin3er&layout=compact" alt="mr-engin3er's top 10 langs" />
 </details>
-
-
-      
-
-
-
 <!-- [website]: https://triops.com -->
+
 [twitter]: https://twitter.com/mr_engin3er
+
 <!-- [youtube]: https://youtube.com/mr-engin3er -->
+
 [instagram]: https://www.instagram.com/mr_engin3er/
 [linkedin]: https://www.linkedin.com/in/mr-engin3er/
 [facebook]: https://www.facebook.com/erdheeraj.sanadhya/
