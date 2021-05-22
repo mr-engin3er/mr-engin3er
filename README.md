@@ -97,7 +97,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="mr-engin3er's Github Stats" src="https://github-readme-stats.mr-engin3er.vercel.app/api?username=mr-engin3er&show_icons=true&hide_border=true" />
+  <img align="left" alt="mr-engin3er's Github Stats" src="https://github-readme-stats-mr-engin3er.vercel.app/api?username=mr-engin3er&show_icons=true&hide_border=true" />
 
 </details>
 
